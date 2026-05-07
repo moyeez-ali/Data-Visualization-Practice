@@ -1,6 +1,6 @@
 # Data Visualization Practice Portfolio
 
-**Target Role:** Data Analyst / Data Scientist  
+**Target Role:** Data Analyst  
 **Status:** Ongoing / Continuous Learning
 
 ## Overview
